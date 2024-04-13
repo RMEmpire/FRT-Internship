@@ -1,5 +1,7 @@
-# Project Title:
-Global Climate: Exploring Evidence, Causes, Effects, and Solutions of Climate Change
+# PGlobal Climate: Exploring Evidence, Causes, Effects, and Solutions of Climate Change
+This is my FRT Internship Project....
+Azure Link: https://globalclimate.z13.web.core.windows.net/
+Github Page Link: https://rmempire.github.io/frt-internship/
 # Problem Statement/Opportunity:
 This project aims to address the urgent need for comprehensive understanding and action regarding climate change. By presenting evidence, causes, effects, and potential solutions, it seeks to inform and empower individuals, communities, and policymakers to mitigate and adapt to the impacts of climate change.
 # Project Description:
