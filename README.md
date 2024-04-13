@@ -17,5 +17,5 @@ This project aims to solve the problem of limited accessibility to comprehensive
 4) Bootstrap
 5) PHP
 # IDE Used: 
-VS Code
+1) VS Code
 # Steps followed While Deploying on Azure:
