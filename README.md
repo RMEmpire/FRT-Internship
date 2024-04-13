@@ -1,4 +1,4 @@
-# PGlobal Climate: Exploring Evidence, Causes, Effects, and Solutions of Climate Change
+# Global Climate: Exploring Evidence, Causes, Effects, and Solutions of Climate Change
 This is my FRT Internship Project.... <br/>
 Azure Link: https://globalclimate.z13.web.core.windows.net/<br/>
 Github Page Link: https://rmempire.github.io/frt-internship/
