@@ -21,3 +21,17 @@ This project aims to solve the problem of limited accessibility to comprehensive
 # IDE Used: 
 1) VS Code
 # Steps followed While Deploying on Azure:
+1) First I created Entire project on VS code and tested it on live server extension.
+2) After testing it, I created repository in github named "frt-internship", and uploaded all the files.
+3) Then I created an resource group on azure portal.
+4) Created a storage account and enable static web app service.
+5) Then I deployed my website with the help of static web service and it was ready to use in real world.
+# Screenshots of my projects:
+![Screenshot (136)](https://github.com/RMEmpire/frt-internship/assets/126232652/8e9f93cc-4c14-4336-b4cb-510772fe71be)
+![Screenshot (137)](https://github.com/RMEmpire/frt-internship/assets/126232652/b426db6f-1531-4193-b617-802701648593)
+![Screenshot (138)](https://github.com/RMEmpire/frt-internship/assets/126232652/8303e770-4405-42e6-9352-5a539eb1370c)
+![Screenshot (139)](https://github.com/RMEmpire/frt-internship/assets/126232652/c01dc2ec-3369-44d5-b035-0dc7d66feb52)
+![Screenshot (140)](https://github.com/RMEmpire/frt-internship/assets/126232652/1884fd5b-881a-4cb9-9da9-6992b0727931)
+![Screenshot (141)](https://github.com/RMEmpire/frt-internship/assets/126232652/e04a6fb4-2333-4d6e-ace6-419d663c3803)
+![Screenshot (142)](https://github.com/RMEmpire/frt-internship/assets/126232652/9827fc55-260b-4971-a32f-88570e88b7ea)
+![Screenshot (143)](https://github.com/RMEmpire/frt-internship/assets/126232652/18731d8b-a1ba-407e-b981-25af235ddc25)
